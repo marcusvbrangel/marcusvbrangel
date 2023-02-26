@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Marcus Rangel... I'm from Brazil and I'm a Software Engineer...
+### My name's Marcus Rangel... I'm from Brazil and I'm a Software Engineer...
 
 - 🔭 I’m currently working on Tata Consultancy Services - TCS
 - 
