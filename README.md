@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
+My name's Marcus Rangel... I'm from Brazil and I'm a Software Engineer...
 
 - 🔭 I’m currently working on Tata Consultancy Services - TCS
-- 🌱 I’m currently learning ... Blockchain, Ethereum, Solidity, Smart Contracts, Defi, NFT, Metaverse, Polygon, Alchemy, Chainlink, IPFS, Corda, Solana, Terra and almost everything related it.
+- 
+- 🌱 I’m currently learning ... Java, Spring Framework, Angular, React, Cloud, AWS, Rest API, JWT, Auth, RDMS, SQL and NoSQL, Postgres, DevOps, Git, Github, Git Operations, CI/CD, Docker and almost everything related it.
+- 
 - 👯 I’m looking to collaborate on this fantastic area mentioned above...
+- 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything related to Blockchain... if I can help you, it will be my pleasure...
-- 📫 How to reach me: ... xxx
+- 
+- 💬 Ask me about anything related to Blockchain... if I can help you, it will be a pleasure...
+- 
+- 📫 How to reach me: ... marcus.vbrangel@gmail.com
+- 
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... xxx
+- 
+- ⚡ Fun fact: ... I prefer don´t mention it... rsrsrss...
 
 
