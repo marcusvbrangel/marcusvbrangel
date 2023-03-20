@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Tata Consultancy Services - TCS
 - 
-- 🌱 I’m currently learning and working with... Java, Spring Framework, Angular, React, JavaScript, TypeScript ,Cloud, AWS, Rest API, JWT, Auth, RDMS, SQL and NoSQL, Postgres, DevOps, Git, Github, Git Operations, CI/CD, Docker and almost everything related it.- 
+- 🌱 I’m currently learning and working with... Java, Spring Framework, Angular, React, JavaScript, TypeScript ,Cloud, AWS, Rest API, JWT, Auth, RDMS, SQL and NoSQL, Postgres, DevOps, Git, Github, Git Actions, CI/CD, Docker and almost everything related it.- 
 - 
 - 👯 I’m looking to collaborate on this fantastic area mentioned above...- 
 - 🤔 I’m looking for help with Software Engineering... 
