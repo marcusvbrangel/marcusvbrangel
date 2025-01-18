@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Software Engineering... 
 - 💬 Ask me about anything related to Software Engineering... if I can help you, it will be a pleasure...- 
 - 📫 How to reach me: ... marcus.vbrangel@gmail.com- 
-- 😄 Pronouns: ... He- 
-- ⚡ Fun fact: ... I prefer don´t mention it... rsrsrss...
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... 
 
 
